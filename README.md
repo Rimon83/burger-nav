@@ -1,3 +1,3 @@
 # burger-nav
-create burger icon using css with animation.
+Create burger icon using HTML and CSS.
  
